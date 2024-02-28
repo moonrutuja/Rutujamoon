@@ -1,0 +1,35 @@
+class Main{
+    public static void main(String args[])
+    {
+        for (int i=0;i<args.length;i++)
+        {
+            System.out.println("VAlue is"+args[i]);
+        }
+    }
+}
+
+
+
+
+
+class Main{
+    public static void main(string args[]){
+        for (stringstr;args)
+        {
+            system.out.println("string value is :"+(str));
+        }
+    }
+}
+
+
+
+
+class Main{
+    public static void main(Stringargs[]){
+        for(string str:args)
+        {
+            int a=Integer.parseInt(str);
+            system.out.println("value is :"+(a));
+        }
+    }
+}
